@@ -27,3 +27,6 @@ such as:
 #define WC_SENDFILE 1105
 //WC_REFUSE#发消息的IP     拒绝接收文件
 #define WC_REFUSE 1106
+
+软件截图如下：
+![image](https://github.com/xiaodaoapple/wiseChat/blob/master/images/%E6%8D%95%E8%8E%B7.PNG)
